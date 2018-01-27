@@ -1,6 +1,6 @@
 # NgAzureGit
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.5.0.
+Learn more about this project @[My View](https://myview.rahulnivi.net/build-deploy-angular-app-azure-via-kuduscriptgithub/)
 
 ## Development server
 
